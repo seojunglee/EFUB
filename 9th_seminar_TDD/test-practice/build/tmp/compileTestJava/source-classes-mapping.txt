@@ -1,0 +1,2 @@
+com/efub/seminar/springboot/web/HelloControllerTest.java
+ com.efub.seminar.springboot.web.HelloControllerTest
