@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class EfubCruDexampleApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(EfubCruDexampleApplication.class, args);
 	}
 
